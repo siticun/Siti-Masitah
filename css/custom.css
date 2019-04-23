@@ -1,0 +1,113 @@
+body
+{
+	background-color: lightgray;
+}
+.btn-success
+{
+	background-color: white;
+}
+.bgc-lightgray
+{
+	background-color: lightgray;
+}
+.bgc-white
+{
+	background-color: white;
+}
+.ltk-kanan
+{
+	float:right; 
+}
+.teks-tengah
+{
+	text-align: center;
+}
+.teks-rata
+{
+	text-align: justify;
+}
+.teks-bold
+{
+	font-weight: bold;
+}
+.main
+{
+	
+}
+.container-buatan
+{
+	margin: 0 0 1em 0;
+	background-color: white;
+}
+.content{
+	max-width: 700px;
+	margin: 1em auto;
+	text-align: center;
+}
+.content-buatan
+{
+	margin-top: 2%;
+	text-align: left;
+	font-family: roboto;
+	font-size: 13pt;
+	background-color: white;
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-bottom: 5%;
+	padding-top: 2%;
+}
+.header
+{
+ height: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto; }
+ .padding
+ {
+ 	padding-left: 20%
+ }
+ .benda-tengah
+ {
+ 	margin-top: 10px;
+ 	position: absolute;
+ 	padding-right: 50%;
+  padding-left: 35%;
+ }
+.margin-atas
+{
+	margin-top: 50px;
+	
+}
+.table-kontak
+{
+	margin-left:10%;
+	width: 500px;
+}
+.navbar-margin
+{
+	margin-left: 100px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 100px;
+}
+.content-sidebar
+{
+	padding-left: 7%;
+	
+	margin-top: 7%;
+}
+.heading
+{
+	padding-left: 100px;
+	font-family: sans-serif;
+	font-size: 18pt;
+	text-align: center;
+	margin-bottom: 10%;
+	color: black;
+}
+.table-gambar
+{
+	margin-bottom: 10%;
+	
+}
